@@ -16,7 +16,8 @@ This app features:
 
 ## 🖼️ Live Demo
 
-Coming soon... (or host on [Netlify](https://netlify.com) / [Vercel](https://vercel.com) and paste link here)
+Host on  [Vercel](https://vercel.com) 
+[Click here](https://to-do-seven-gray.vercel.app/)
 
 ---
 
