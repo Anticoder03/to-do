@@ -37,10 +37,10 @@ export default function App() {
       </div>
 
       {/* Glass Card */}
-      <div className="relative z-10 backdrop-blur-md bg-white/10 p-8 rounded-2xl w-full max-w-md shadow-2xl border border-white/20">
+      <div className="relative z-10 backdrop-blur-md bg-white/10 p-8 rounded-2xl w-full max-w-md shadow-2xl border border-white/20 ">
         <h1 className="text-3xl font-bold mb-4 text-center text-blue-300 drop-shadow">To-Do App</h1>
         
-        <div className="flex gap-2 mb-4">
+        <div className="flex flex-col xs:flex-row gap-2 mb-4 w-full responsive-input">
           <input
             value={input}
             onChange={(e) => setInput(e.target.value)}
